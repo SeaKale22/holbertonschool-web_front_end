@@ -10,7 +10,7 @@
  
 /* Add the universal box sizing rule */
 * {
-  box-sizing:;
+  box-sizing:border-box;
 }
  html {
     line-height: 1.15; /* 1 */
