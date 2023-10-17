@@ -51,10 +51,6 @@ a[href]:hover {
 a[href]:active {
     background-color: var(--color-light-grey);
 }
-a {
-    color: var(--text-color);
-    text-decoration: none;
-}
 .visually-hidden {
     display: none;
 }
