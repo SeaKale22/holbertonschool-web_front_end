@@ -35,7 +35,7 @@
     --nav-item-letter-spacing: 4%;
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 calc(3 * var(--font-size-medium)) 0;
-    --nav-item-link-hover: var(--color-primary);
+    --nav-item-link-hover: var(--color-white);
     --section-tagline-margin: 0;
     --button-display: inline-block;
     --button-padding: 1.5rem 3rem;
@@ -255,9 +255,6 @@ ul.row {
     position: var(--header-logo-link-position);
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
-}
-.nav-item-link-hover {
-    color: var(--color-white);
 }
 nav .nav-link::before {
     content: "";
